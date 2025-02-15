@@ -24,7 +24,7 @@ Copie la carpeta proyecto en la carpeta htdocs de XAMPP (usualmente está en C:\
 4. **Inicie XAMPP**:
    - Asegúrese de que Apache y MySQL están corriendo en el panel de control de XAMPP.
 5. **Acceda al proyecto**:
-   - Abra `http://localhost/proyecto/index.php` e su navegador.
+   - Abra `http://localhost/biblioteca/index.php` en su navegador.
 
 ## Estructura del Proyecto
 - `index.php`: Página de inicio.
