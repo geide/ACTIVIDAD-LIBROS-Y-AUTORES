@@ -13,6 +13,9 @@ Este proyecto es un sistema web en PHP para la gestión de libros y autores.
 ## Instalación
 
 1. **Clone este repositorio** en su máquina local.
+Ubique el proyecto en la carpeta correcta:
+Copie la carpeta proyecto en la carpeta htdocs de XAMPP (usualmente está en C:\xampp\htdocs).
+
 2. **Importe la base de datos**:
    - Acceda a `http://localhost/phpmyadmin/`.
    - Cree una nueva base de datos llamada `biblioteca`.
