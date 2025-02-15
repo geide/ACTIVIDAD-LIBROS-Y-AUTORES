@@ -21,9 +21,10 @@ Copie la carpeta del proyecto ACTIVIDAD-LIBROS-AUTORES, en la carpeta htdocs de 
    - Cree una nueva base de datos llamada `biblioteca`.
    - Importe el archivo SQL, este se encuentra en la carpeta `sql` y lleva como nombre `biblioteca.sql`
 4. **Configure la conexión** en `includes/database.php` con los datos de su servidor de base de datos.
+**En ESTE caso, usuario: root y la contraseña queda vacía. Esto se encuentra explicado en el database.php**
 5. **Acceda al proyecto**:
    - Abra `http://localhost/biblioteca/index.php` en su navegador.
-**En caso de necesitar un usuario y contraseña, usuario: root y  la contraseña queda vacía.
+
 ## Estructura del Proyecto
 - `index.php`: Página de inicio.
 - `registro.php`: Formulario para registrar libros.
